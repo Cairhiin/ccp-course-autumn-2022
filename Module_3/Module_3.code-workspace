@@ -1,0 +1,84 @@
+{
+	"folders": [
+		{
+			"name": "T.3.1 - Iterators",
+			"path": "T1-vector_iterators"
+		},
+		{
+			"name": "T.3.2 - List",
+			"path": "T2-list"
+		},
+		{
+			"name": "T.3.3 - Matrix",
+			"path": "T3-matrix"
+		},
+		{
+			"name": "T.3.4 - Library",
+			"path": "T4-library"
+		},
+		{
+			"name": "T.3.5 - Pokemon",
+			"path": "T5-pokemon"
+		}
+	],
+	"settings": {
+        "cmake.sourceDirectory": "${workspaceFolder}",
+        "cmake.buildDirectory": "${workspaceFolder}/../build/${workspaceFolderBasename}",
+        "cmake.buildBeforeRun": true,
+		"files.associations": {
+			"limits": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"typeinfo": "cpp",
+			"variant": "cpp",
+			"bit": "cpp",
+			"chrono": "cpp",
+			"cstring": "cpp",
+			"ratio": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"numbers": "cpp"
+		}
+	}
+}

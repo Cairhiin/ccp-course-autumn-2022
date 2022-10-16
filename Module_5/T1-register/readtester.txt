@@ -1,0 +1,10 @@
+A;G_BOAC;British Airways;Concorde SST;80.8;2000
+A;RU-123;Russian Federation;MiG-21;80.8;1600
+B;FI123;Billy Farmer;Queen;0;1.8
+B;FI15;Peksi Sailer;King;2.0;1.8
+Z;FI1763;Mistral;Cairhiin;0;2.8
+B;FI1263;To the Horizon;Mariella;3.8;2.6
+D;OH-LVI;Finnair;Airbus 350;67.2;900
+A;RU-125;Russian Federation;MiG-27;90.9;1800
+A;RU-126;Russian Federation;MiG-28;78.1;1200
+Z;asdsad;sadsad;sadsad;0;0

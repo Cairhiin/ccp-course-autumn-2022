@@ -1,0 +1,93 @@
+{
+	"folders": [
+		{
+			"name": "T.2.1 - FirstTouch",
+			"path": "T1-first_touch"
+		},
+		{
+			"name": "T.2.2 - Rectangle",
+			"path": "T2-rectangle"
+		},
+        {
+			"name": "T.2.3 - SimpleClass",
+			"path": "T3-simple_class"
+		},
+        {
+			"name": "T.2.4 - DogClass",
+			"path": "T4-dog_class"
+		},
+        {
+			"name": "T.2.5 - BankAccount",
+			"path": "T5-bank_account"
+		},
+		{
+			"name": "T.2.6 - Vector",
+			"path": "T6-vector"
+		},
+		{
+			"name": "T.2.7 - StringVector",
+			"path": "T7-vector_strings"
+		},
+
+	],
+	"settings": {
+	    "cmake.sourceDirectory": "${workspaceFolder}",
+        "cmake.buildDirectory": "${workspaceFolder}/../build/${workspaceFolderBasename}",
+        "cmake.buildBeforeRun": true,
+		"files.associations": {
+			"*.tcc": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"atomic": "cpp",
+			"cctype": "cpp",
+			"chrono": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"system_error": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"typeinfo": "cpp",
+			"variant": "cpp",
+			"bit": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"numbers": "cpp"
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+    "folders": [
+        {
+            "name": "T1-Mammals",
+            "path": "T1-mammals"
+        },
+        {
+            "name": "T2-Trolls and dragons",
+            "path": "T2-trolls_and_dragons"
+        },
+        {
+            "name": "T3-Overload operators",
+            "path": "T3-overload_operators"
+        },
+        {
+            "name": "T4-Bird",
+            "path": "T4-bird"
+        },
+        {
+            "name": "T5-Dragons",
+            "path": "T5-dragons"
+        },
+    ],
+    "settings": {
+        "files.associations": {
+            "array": "cpp",
+            "atomic": "cpp",
+            "*.tcc": "cpp",
+            "cctype": "cpp",
+            "clocale": "cpp",
+            "cmath": "cpp",
+            "cstdarg": "cpp",
+            "cstddef": "cpp",
+            "cstdint": "cpp",
+            "cstdio": "cpp",
+            "cstdlib": "cpp",
+            "ctime": "cpp",
+            "cwchar": "cpp",
+            "cwctype": "cpp",
+            "deque": "cpp",
+            "list": "cpp",
+            "unordered_map": "cpp",
+            "vector": "cpp",
+            "exception": "cpp",
+            "algorithm": "cpp",
+            "functional": "cpp",
+            "iterator": "cpp",
+            "memory": "cpp",
+            "memory_resource": "cpp",
+            "numeric": "cpp",
+            "optional": "cpp",
+            "random": "cpp",
+            "string": "cpp",
+            "string_view": "cpp",
+            "system_error": "cpp",
+            "tuple": "cpp",
+            "type_traits": "cpp",
+            "utility": "cpp",
+            "fstream": "cpp",
+            "initializer_list": "cpp",
+            "iosfwd": "cpp",
+            "iostream": "cpp",
+            "istream": "cpp",
+            "limits": "cpp",
+            "new": "cpp",
+            "ostream": "cpp",
+            "sstream": "cpp",
+            "stdexcept": "cpp",
+            "streambuf": "cpp",
+            "typeinfo": "cpp",
+            "variant": "cpp",
+            "bit": "cpp",
+            "compare": "cpp",
+            "concepts": "cpp",
+            "numbers": "cpp"
+        }
+    }
+}
